@@ -1,0 +1,6 @@
+com\mycompany\proterquimweb\JakartaRestConfiguration.class
+com\proterquim\web\ProductoServlet.class
+com\proterquim\dao\ProductoDAO.class
+com\proterquim\modelo\Producto.class
+com\mycompany\proterquimweb\resources\JakartaEE8Resource.class
+com\proterquim\util\ConexionDB.class
